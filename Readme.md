@@ -2,6 +2,20 @@
 
 This Power BI project performs a comprehensive sales performance analysis for **Blinkit**, India’s quick commerce platform. The dashboard was built as a practice project to showcase business intelligence skills and DAX capabilities using structured sales data.
 
+---
+
+## 📌 Note:
+
+> This is a learning-oriented project inspired by a public YouTube tutorial by *Data Tutorials*. While the dataset is synthetic, the dashboard demonstrates real-world reporting use cases.
+
+---
+
+## 📷 Preview
+
+*Add a screenshot of your dashboard here once uploaded*
+
+---
+
 ## 📌 Business Objectives
 
 To identify trends, insights, and opportunities for optimization in:
@@ -66,21 +80,24 @@ Based on a structured CSV with columns:
 - **DAX** (for calculated KPIs and measures)
 - **Excel/CSV** as data source
 
----
-
-## 📌 Notes
-
-> This is a learning-oriented project inspired by a public YouTube tutorial by *Data Tutorials*. While the dataset is synthetic, the dashboard demonstrates real-world reporting use cases.
 
 ---
+## 🔍 Insights & Key Findings
 
-## 📷 Preview
-
-*Add a screenshot of your dashboard here once uploaded*
+- 🟡 **Regular items** contributed more to total sales than low-fat items, but had a slightly lower average rating.
+- 🏪 **Supermarket Type 1** outlets showed the highest total sales and hosted the majority of popular item categories.
+- 🗓️ Outlets established between **2009 and 2012** generated maximum revenue, suggesting maturity and stability positively impact performance.
+- 📦 **Fruits & Vegetables**, **Snack Foods**, and **Household** items were top-performing categories in both sales and item count.
+- 🌍 **Tier 3 cities** had the highest sales, indicating increasing market penetration in semi-urban areas.
 
 ---
 
-## 🧑‍💻 Author
+## ✅ Conclusion
+
+This dashboard helped identify which product categories, outlet types, and locations drive the most revenue for Blinkit. It also provided valuable insights into customer preferences and operational patterns.
+
+Such insights can help optimize inventory distribution, plan expansion strategies, and enhance customer satisfaction.
+
 
 **Chirag Sharma**  
 [LinkedIn](https://www.linkedin.com/in/chirag-sharma-a38550252) | Data Enthusiast | SQL Developer Intern @ Indiabulls Securities Ltd.
