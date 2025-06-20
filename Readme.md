@@ -12,7 +12,7 @@ This Power BI project performs a comprehensive sales performance analysis for **
 
 ## 📷 Preview
 
-*Add a screenshot of your dashboard here once uploaded*
+![Blinkit Power BI Dashboard](images/Dashboard_image.png)
 
 ---
 
@@ -97,8 +97,3 @@ Based on a structured CSV with columns:
 This dashboard helped identify which product categories, outlet types, and locations drive the most revenue for Blinkit. It also provided valuable insights into customer preferences and operational patterns.
 
 Such insights can help optimize inventory distribution, plan expansion strategies, and enhance customer satisfaction.
-
-
-**Chirag Sharma**  
-[LinkedIn](https://www.linkedin.com/in/chirag-sharma-a38550252) | Data Enthusiast | SQL Developer Intern @ Indiabulls Securities Ltd.
-
