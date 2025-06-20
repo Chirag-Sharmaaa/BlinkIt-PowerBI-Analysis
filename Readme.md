@@ -12,7 +12,7 @@ This Power BI project performs a comprehensive sales performance analysis for **
 
 ## 📷 Preview
 
-![Blinkit Power BI Dashboard](images/Dashboard_image.PNG)
+![Blinkit Power BI Dashboard](images\Dashboard_image.png)
 
 ---
 
